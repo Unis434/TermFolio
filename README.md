@@ -15,7 +15,7 @@
 
 <h1 id="preview" align="center">Preview</h1>
 <p align="center">
-  <a href="https://ahsankhan.me/TermFolio"><img src="https://forthebadge.com/images/badges/check-it-out.svg"></a>
+  <a href="https://unis434.github.io/TermFolio/"><img src="https://forthebadge.com/images/badges/check-it-out.svg"></a>
 </p>
 
 <h1 id="setup">Setup</h1>
